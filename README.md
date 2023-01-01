@@ -1,5 +1,3 @@
-# H-and-M_Case_Study
+# H & M Case Study
 
-Built an Interactive dashboard with H&M sales data in Excel using slicers.
-
-Acquired insights on customer acquisition and customer buying habits with respect to their age.
+Conducted a case study of H&M sales data using Excel to understand trends in customer acquisition and shopping preferences over time.
